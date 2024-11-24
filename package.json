@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@danielx/civet": "^0.8.15",
+    "@types/bun": "^1.1.13",
+    "cheerio": "^1.0.0"
+  },
+  "scripts": {
+    "start": "bun ./start-scape-thasungmedia.civet"
+  },
+  "type": "module",
+  "dependencies": {
+    "collect.js": "^4.36.1",
+    "ts-pattern": "^5.5.0"
+  }
+}
